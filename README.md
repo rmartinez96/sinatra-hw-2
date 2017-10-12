@@ -17,7 +17,7 @@ Due 10/17/17
    ```
 
 5. ```
-   dm-sqlite-adapter
+   gem install dm-sqlite-adapter
    ```
 
 ## Instructions
