@@ -1,6 +1,8 @@
 # Sinatra HW
 
-##Prerequisites
+Due 10/17/17
+ 
+## Prerequisites
 
 1. Uninstall Ruby if you previously installed using RubyInstaller
 
