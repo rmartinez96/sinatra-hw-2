@@ -22,11 +22,11 @@ Due 10/17/17
 
 ## Instructions
 
-1. Clone this repository to your local harddrive
+1. Clone this repository to your local harddrive: `git clone https://github.com/ericmichael/sinatra-hw`
 
 2. Run server: `ruby web.rb`
 
-3. Go to (http://localhost:4567)[http://localhost:4567] and verify that you can see the posts
+3. Go to `http://localhost:4567` and verify that you can see the posts
 
 4. Add the template for the `new` route that has a form with the following properties:
 
