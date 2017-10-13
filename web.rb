@@ -31,7 +31,12 @@ end
 
 post '/create' do
 	#replace this
-	return params.to_s
+	p = Post.new
+	p.title = params[:title]
+	p.body = params[:body]
+	p.save
+	erb :success
+	#return params.to_s
 end
 
 get '/' do
